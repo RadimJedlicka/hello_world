@@ -3,3 +3,5 @@ Just another testing
 
 # Hello world!
 This will be my first file on Github
+
+jeste pridavam radek do readme
